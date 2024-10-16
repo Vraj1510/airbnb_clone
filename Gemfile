@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 
 gem "bootsnap", require: false
-gem 'country_select', '~> 9.0.0'
+gem 'country_select', '~> 10.0.0'
 gem 'devise', '~> 4.9.4'
 gem 'faker', '~> 3.2.0'
 gem "image_processing", "~> 1.12.2"
