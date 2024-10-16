@@ -328,7 +328,7 @@ DEPENDENCIES
   brakeman
   country_select (~> 9.0.0)
   debug
-  devise (~> 4.9.3)
+  devise (~> 4.9.4)
   faker (~> 3.2.0)
   image_processing (~> 1.12.2)
   importmap-rails (~> 2.0.2)
