@@ -9,7 +9,7 @@ gem "image_processing", "~> 1.12.2"
 gem "importmap-rails", "~> 2.0.2"
 gem "jbuilder", "~> 2.12.0"
 gem 'money-rails', '~> 1.15.0'
-gem "pg", "~> 1.5.7"
+gem "pg", "~> 1.5.9"
 gem "puma", "~> 6.4.2"
 gem "rails", "~> 7.2.0"
 gem "redis", "~> 5.2.0"
