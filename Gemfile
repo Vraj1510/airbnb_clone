@@ -17,6 +17,7 @@ gem "sprockets-rails", "~> 3.5.1"
 gem "stimulus-rails", "~> 1.3.3"
 gem 'stripe-rails', '~> 2.6.0'
 gem "turbo-rails", "~> 2.0.10"
+gem 'ostruct'
 gem "tailwindcss-rails", "~> 3.0"
 gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
 
@@ -25,6 +26,7 @@ group :development, :test do
   gem "debug", platforms: %i[ mri windows ], require: "debug/prelude"
   gem "brakeman", require: false
   gem "rubocop-rails-omakase", require: false
+  gem "dotenv"
 end
 
 group :development do
