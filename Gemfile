@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem "bootsnap", require: false
 gem 'country_select', '~> 9.0.0'
 gem 'devise', '~> 4.9.4'
-gem 'faker', '~> 3.2.0'
+gem 'faker', '~> 3.5.1'
 gem "image_processing", "~> 1.12.2"
 gem "importmap-rails", "~> 2.0.2"
 gem "jbuilder", "~> 2.12.0"
