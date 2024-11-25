@@ -10,7 +10,7 @@ gem "importmap-rails", "~> 2.0.2"
 gem "jbuilder", "~> 2.12.0"
 gem 'money-rails', '~> 1.15.0'
 gem "pg", "~> 1.5.7"
-gem "puma", "~> 6.4.2"
+gem "puma", "~> 6.5.0"
 gem "rails", "~> 7.2.0"
 gem "redis", "~> 5.2.0"
 gem "sprockets-rails", "~> 3.5.1"
